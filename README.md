@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Divya20085/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -64,9 +65,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divya20085/Leetcode/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Divya20085/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
