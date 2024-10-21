@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Divya20085/Leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Divya20085/Leetcode/tree/master/0292-nim-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Divya20085/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Divya20085/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
