@@ -4,7 +4,6 @@ class Solution {
         int in[]=new int[n+1];
         int out[]=new int[n+1];
         int m=trust.length;
-       
         for(int i=0;i<m;i++)
         {
            int a=trust[i][0];
