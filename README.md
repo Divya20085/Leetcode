@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
 | [1036-rotting-oranges](https://github.com/Divya20085/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Divya20085/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/Divya20085/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Divya20085/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Binary Search
@@ -133,12 +134,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Divya20085/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Divya20085/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Divya20085/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Divya20085/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Divya20085/Leetcode/tree/master/1039-find-the-town-judge) |
+## Depth-First Search
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/Divya20085/Leetcode/tree/master/1073-number-of-enclaves) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/Divya20085/Leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
