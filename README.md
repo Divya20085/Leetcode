@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Divya20085/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divya20085/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divya20085/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Divya20085/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Divya20085/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Divya20085/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Divya20085/Leetcode/tree/master/0169-majority-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Divya20085/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divya20085/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Divya20085/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Divya20085/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divya20085/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Divya20085/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
