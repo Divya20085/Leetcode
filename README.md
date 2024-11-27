@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Divya20085/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Divya20085/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Divya20085/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Divya20085/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Divya20085/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Divya20085/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Divya20085/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Divya20085/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Divya20085/Leetcode/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Divya20085/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divya20085/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/Divya20085/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Divya20085/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Divya20085/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Divya20085/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Divya20085/Leetcode/tree/master/0744-network-delay-time) |
