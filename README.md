@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divya20085/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Divya20085/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Divya20085/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Divya20085/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Divya20085/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Divya20085/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Divya20085/Leetcode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Divya20085/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 | [1036-rotting-oranges](https://github.com/Divya20085/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Divya20085/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
@@ -256,8 +259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Divya20085/Leetcode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Divya20085/Leetcode/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Divya20085/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Divya20085/Leetcode/tree/master/0068-text-justification) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
