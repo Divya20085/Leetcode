@@ -1,5 +1,4 @@
 class Solution {
-    // to store previously computed substrings
     Map<String, Boolean> map = new HashMap<>();
 
     public boolean isScramble(String s1, String s2) {
