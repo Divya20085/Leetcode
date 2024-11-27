@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Divya20085/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Divya20085/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divya20085/Leetcode/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/Divya20085/Leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divya20085/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Divya20085/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divya20085/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Divya20085/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Divya20085/Leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Divya20085/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0068-text-justification](https://github.com/Divya20085/Leetcode/tree/master/0068-text-justification) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Divya20085/Leetcode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Divya20085/Leetcode/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Divya20085/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
