@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Divya20085/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Divya20085/Leetcode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Divya20085/Leetcode/tree/master/0263-ugly-number) |
+| [0282-expression-add-operators](https://github.com/Divya20085/Leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Divya20085/Leetcode/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/Divya20085/Leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Divya20085/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Divya20085/Leetcode/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/Divya20085/Leetcode/tree/master/0282-expression-add-operators) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Divya20085/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Divya20085/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/Divya20085/Leetcode/tree/master/0282-expression-add-operators) |
 ## Simulation
 |  |
 | ------- |
