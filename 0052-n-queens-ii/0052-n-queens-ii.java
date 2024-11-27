@@ -9,14 +9,11 @@ class Solution {
                 board[i][j] = '.';
             }
         }
-
         int[] leftRow = new int[n];
         int[] lowerDiagonal = new int[2 * n - 1];
         int[] upperDiagonal = new int[2 * n - 1];
-
         return solve(0, board, leftRow, lowerDiagonal, upperDiagonal);
     }
-
     int solve(int col, char[][] board, int[] leftRow, int[] lowerDiagonal, int[] upperDiagonal) {
         if (col == board.length) {
             return 1;
