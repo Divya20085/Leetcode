@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Divya20085/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Divya20085/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Divya20085/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
@@ -312,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Divya20085/Leetcode/tree/master/0218-the-skyline-problem) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Divya20085/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Divya20085/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Divya20085/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
