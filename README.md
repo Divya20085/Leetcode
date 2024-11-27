@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Divya20085/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divya20085/Leetcode/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/Divya20085/Leetcode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Divya20085/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divya20085/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Divya20085/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Divya20085/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Divya20085/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Divya20085/Leetcode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Divya20085/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
