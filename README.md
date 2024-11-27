@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Divya20085/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Divya20085/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Divya20085/Leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Divya20085/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Divya20085/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Divya20085/Leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Divya20085/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/Divya20085/Leetcode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Divya20085/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Divya20085/Leetcode/tree/master/0087-scramble-string) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Divya20085/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Divya20085/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Backtracking
 |  |
 | ------- |
