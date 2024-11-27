@@ -2,8 +2,8 @@ class TrieNode {
     char value;
     TrieNode[] children;
     boolean isEndOfWord;
-
-    TrieNode(char val) {
+    TrieNode(char val) 
+    {
         value = val;
         children = new TrieNode[26];
         isEndOfWord = false;
