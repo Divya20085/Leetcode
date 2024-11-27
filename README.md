@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divya20085/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divya20085/Leetcode/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/Divya20085/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Divya20085/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divya20085/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Divya20085/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Divya20085/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Divya20085/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Divya20085/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divya20085/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -337,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Divya20085/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
