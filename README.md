@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Divya20085/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Divya20085/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Divya20085/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0488-zuma-game](https://github.com/Divya20085/Leetcode/tree/master/0488-zuma-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Divya20085/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Divya20085/Leetcode/tree/master/0068-text-justification) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Divya20085/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
 | ------- |
