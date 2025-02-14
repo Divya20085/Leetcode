@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/Divya20085/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divya20085/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Divya20085/Leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divya20085/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0488-zuma-game](https://github.com/Divya20085/Leetcode/tree/master/0488-zuma-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divya20085/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Divya20085/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Heap (Priority Queue)
 |  |
