@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Divya20085/Leetcode/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/Divya20085/Leetcode/tree/master/0472-concatenated-words) |
+| [0480-sliding-window-median](https://github.com/Divya20085/Leetcode/tree/master/0480-sliding-window-median) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
 | [1036-rotting-oranges](https://github.com/Divya20085/Leetcode/tree/master/1036-rotting-oranges) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Divya20085/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Divya20085/Leetcode/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/Divya20085/Leetcode/tree/master/0480-sliding-window-median) |
 | [1039-find-the-town-judge](https://github.com/Divya20085/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divya20085/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/Divya20085/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/Divya20085/Leetcode/tree/master/0420-strong-password-checker) |
+| [0480-sliding-window-median](https://github.com/Divya20085/Leetcode/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Divya20085/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divya20085/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Divya20085/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/Divya20085/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Divya20085/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/Divya20085/Leetcode/tree/master/0480-sliding-window-median) |
 ## Backtracking
 |  |
 | ------- |
