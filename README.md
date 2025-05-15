@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divya20085/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divya20085/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Divya20085/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Divya20085/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/Divya20085/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Divya20085/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Divya20085/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Divya20085/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Divya20085/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Divya20085/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Divya20085/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Divya20085/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Divya20085/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Divya20085/Leetcode/tree/master/0140-word-break-ii) |
