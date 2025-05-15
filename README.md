@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Divya20085/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Divya20085/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Divya20085/Leetcode/tree/master/0455-assign-cookies) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Divya20085/Leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Divya20085/Leetcode/tree/master/0292-nim-game) |
 | [0335-self-crossing](https://github.com/Divya20085/Leetcode/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
 | [1013-fibonacci-number](https://github.com/Divya20085/Leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divya20085/Leetcode/tree/master/0169-majority-element) |
 | [0336-palindrome-pairs](https://github.com/Divya20085/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/Divya20085/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Divya20085/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Data Stream
 |  |
 | ------- |
@@ -471,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Divya20085/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
