@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Divya20085/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Divya20085/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Divya20085/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/Divya20085/Leetcode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Divya20085/Leetcode/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divya20085/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/Divya20085/Leetcode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Divya20085/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Divya20085/Leetcode/tree/master/0455-assign-cookies) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Divya20085/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Divya20085/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/Divya20085/Leetcode/tree/master/0321-create-maximum-number) |
 | [0488-zuma-game](https://github.com/Divya20085/Leetcode/tree/master/0488-zuma-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
@@ -181,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Divya20085/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Divya20085/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0321-create-maximum-number](https://github.com/Divya20085/Leetcode/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divya20085/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Divya20085/Leetcode/tree/master/0044-wildcard-matching) |
+| [0321-create-maximum-number](https://github.com/Divya20085/Leetcode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Divya20085/Leetcode/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/Divya20085/Leetcode/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divya20085/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
