@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Divya20085/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Divya20085/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Divya20085/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Divya20085/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Divya20085/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0330-patching-array](https://github.com/Divya20085/Leetcode/tree/master/0330-patching-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Divya20085/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Divya20085/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/Divya20085/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Divya20085/Leetcode/tree/master/0744-network-delay-time) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Divya20085/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Divya20085/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/Divya20085/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Divya20085/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -419,4 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Divya20085/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Divya20085/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
