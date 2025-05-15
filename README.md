@@ -558,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/Divya20085/Leetcode/tree/master/0479-largest-palindrome-product) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Divya20085/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
