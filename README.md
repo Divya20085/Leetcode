@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Divya20085/Leetcode/tree/master/0292-nim-game) |
 | [0335-self-crossing](https://github.com/Divya20085/Leetcode/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0458-poor-pigs](https://github.com/Divya20085/Leetcode/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
 | [1013-fibonacci-number](https://github.com/Divya20085/Leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Divya20085/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Divya20085/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Divya20085/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/Divya20085/Leetcode/tree/master/0458-poor-pigs) |
 | [0488-zuma-game](https://github.com/Divya20085/Leetcode/tree/master/0488-zuma-game) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divya20085/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/Divya20085/Leetcode/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
 ## Queue
 |  |
