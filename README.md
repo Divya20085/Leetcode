@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Divya20085/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/Divya20085/Leetcode/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/Divya20085/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Divya20085/Leetcode/tree/master/0455-assign-cookies) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Divya20085/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Divya20085/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Divya20085/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/Divya20085/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/Divya20085/Leetcode/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Divya20085/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divya20085/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Divya20085/Leetcode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Divya20085/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Divya20085/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Divya20085/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0488-zuma-game](https://github.com/Divya20085/Leetcode/tree/master/0488-zuma-game) |
 | [0547-number-of-provinces](https://github.com/Divya20085/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Divya20085/Leetcode/tree/master/0744-network-delay-time) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Divya20085/Leetcode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Divya20085/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Divya20085/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0407-trapping-rain-water-ii](https://github.com/Divya20085/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/Divya20085/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Divya20085/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
