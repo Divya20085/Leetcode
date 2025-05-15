@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Divya20085/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Divya20085/Leetcode/tree/master/0460-lfu-cache) |
 | [1039-find-the-town-judge](https://github.com/Divya20085/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divya20085/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Divya20085/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Divya20085/Leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Divya20085/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya20085/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Divya20085/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Divya20085/Leetcode/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -508,4 +511,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Divya20085/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Divya20085/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
