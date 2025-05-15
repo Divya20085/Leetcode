@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Divya20085/Leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Divya20085/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Divya20085/Leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Divya20085/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Divya20085/Leetcode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Divya20085/Leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Divya20085/Leetcode/tree/master/0292-nim-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Divya20085/Leetcode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Divya20085/Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Divya20085/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/Divya20085/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/Divya20085/Leetcode/tree/master/0312-burst-balloons) |
 | [0488-zuma-game](https://github.com/Divya20085/Leetcode/tree/master/0488-zuma-game) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Divya20085/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Divya20085/Leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Divya20085/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Divya20085/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Divya20085/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
