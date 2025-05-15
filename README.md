@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Divya20085/Leetcode/tree/master/0321-create-maximum-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Divya20085/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Divya20085/Leetcode/tree/master/0330-patching-array) |
+| [0335-self-crossing](https://github.com/Divya20085/Leetcode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya20085/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divya20085/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Divya20085/Leetcode/tree/master/0455-assign-cookies) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Divya20085/Leetcode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Divya20085/Leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Divya20085/Leetcode/tree/master/0292-nim-game) |
+| [0335-self-crossing](https://github.com/Divya20085/Leetcode/tree/master/0335-self-crossing) |
 | [0489-kth-smallest-instructions](https://github.com/Divya20085/Leetcode/tree/master/0489-kth-smallest-instructions) |
 | [1013-fibonacci-number](https://github.com/Divya20085/Leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Divya20085/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Divya20085/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/Divya20085/Leetcode/tree/master/0335-self-crossing) |
 ## Binary Indexed Tree
 |  |
 | ------- |
